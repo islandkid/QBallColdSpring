@@ -1,4 +1,4 @@
-component extends="qballfw1.framework" {
+component extends="framework" {
 
 	this.name = "qball";
 	this.sessionManagement = true;
